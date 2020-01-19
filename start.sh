@@ -1,0 +1,1 @@
+mongod & /usr/local/bin/redis-server & ./bin/elasticsearch
