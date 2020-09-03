@@ -14,7 +14,7 @@
   "dependencies": {
     "@elastic/elasticsearch": "^7.5.0",
     "@hapi/boom": "^8.0.1",
-    "@hapi/hapi": "^18.4.0",
+    "@hapi/hapi": "^19.1.1",
     "@hapi/inert": "^5.2.2",
     "@hapi/joi": "^16.1.8",
     "bluebird": "^3.7.2",
